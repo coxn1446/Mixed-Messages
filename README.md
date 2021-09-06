@@ -16,5 +16,5 @@ This project was created with
 1. Download Node.js to your system
 2. Save Mixed-Messages.js to your computer
 3. Edit Mixed-Message.js using Visual Studio Code or another editing environment. Uncomment lines 20-25 and choose your own words.
-4. Open up a command promt and navigate to the directory where you saved Mixed-Messages.js
+4. Open up a command prompt and navigate to the directory where you saved Mixed-Messages.js
 5. Run "node Mixed-Messages.js" to read your Mad Lib!
