@@ -1,8 +1,8 @@
 # Mixed-Messages
 ## Table of Contents
 * [General Info](#general-info)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## General Info
 This is a very simple Mad Lib Generator. It is written in Javascript and consists of one function which takes in three string arugments and returns one randomized Mad Lib.
